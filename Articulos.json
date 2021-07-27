@@ -2,9 +2,9 @@
          "name":"Santiago",
          "lastName":"Rosas",
          "ID": "41800800"
-         "Intereses":["Deporte","Programación","Entretenimiento"]
+         "Intereses":["Deporte","Programación","Entretenimiento"],
          "Ultimos articulos":{
-             "Comida": "Milanesa"
+             "Comida": "Milanesa",
              "Ropa": "Nike"
          } 
 
